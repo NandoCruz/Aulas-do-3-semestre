@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CoresApp</string>
+    <string name="txt_adicionar">Adicionar</string>
+    <string name="txt_cor">Cor</string>
+    <string name="txt_inserir">Inserir</string>
+</resources>

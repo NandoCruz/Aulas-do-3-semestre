@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P02_AppNumeros_ADS_manha</string>
+    <string name="txt_digite_numero">Digite número inteiro</string>
+    <string name="txt_botao_ok">OK</string>
+    <string name="txt_numeros_digitados">Números digitados</string>
+    <string name="txt_qtd_impares">Quantidade de ímpares</string>
+    <string name="txt_qtd_pares">Quantidade de pares</string>
+    <string name="txt_soma">Soma</string>
+</resources>
